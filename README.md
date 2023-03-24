@@ -19,7 +19,7 @@ GW1_ETL_Mini_Project_Starter_Code.ipynb
 <br />
 Resources(Folder) <br />
 ERD_Group_3.png <br />
-Group_3.sql 
+Schema_Group_3.sql 
 
 ## Contributing
 Zac <br />
