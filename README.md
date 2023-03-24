@@ -1,13 +1,15 @@
 # Module-13-Project2-ETL
 
 ## Project Description
-The module 13 ETL mini project is focused on building an ETL popline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data <br /> After the data has been transformed, 4 CSV files will be created from the cleaned up data frames.
+The module 13 ETL mini project is focused on building an ETL popline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After the data has been transformed, 4 CSV files will be created from the cleaned up data frames. These 4 CSV will be used to to create an ERD and the CSV file data will also be uploaded into a Postgres database.
+
 
 ## About
 The files uses in this challenge will in in jupyter notebook file format <br />
 
 ## Files 
 
+ETL_Mini_Project_Group_3.ipynb
 
 ## Getting Started
 files used<br />
