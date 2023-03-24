@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿CREATE TABLE "campaign" (
+=======
+CREATE TABLE "campaign" (
+>>>>>>> 02e916fff383196435983363c3a7e3f6ae68fbc8
     "cf_id" int   NOT NULL,
     "contact_id" int   NOT NULL,
     "company_name" varchar(64)   NOT NULL,
@@ -57,3 +61,7 @@ SELECT * FROM campaign
 SELECT * FROM category
 SELECT * FROM contacts
 SELECT * FROM subcategory
+<<<<<<< HEAD
+=======
+
+>>>>>>> 02e916fff383196435983363c3a7e3f6ae68fbc8
