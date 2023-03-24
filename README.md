@@ -5,22 +5,21 @@ The module 13 ETL mini project is focused on building an ETL popline using Pytho
 
 
 ## About
-The files uses in this challenge will in in jupyter notebook file format <br />
+The files uses in this challenge will in in jupyter notebook file format and SQL format 
 
 ## Files 
-
-ETL_Mini_Project_Group_3.ipynb
-
-## Getting Started
-files used<br />
-Part 1: Database and Jupyter Notebook Set Up<br />
-NoSQL_setup_starter.ipynb <br />
+Main file:<br />
+ETL_Mini_Project_Group_3.ipynb<br />
 <br />
-Part 2: Update the Database<br />
-NoSQL_setup_starter.ipynb <br />
+Individual files: <br />
+ETL_Mini_Project_ADeng.ipynb<br />
+ETL_Mini_Project_SZAND.ipynb<br />
+ETL_Mini_Project_ZCORBETT.ipynb<br />
+GW1_ETL_Mini_Project_Starter_Code.ipynb
 <br />
-Part 3: Exploratory Analysis<br />
-NoSQL_analysis_starter.ipynb
+Resources(Folder) <br />
+ERD_Group_3.png <br />
+Schema_Group_3.sql 
 
 ## Contributing
 Zac <br />
